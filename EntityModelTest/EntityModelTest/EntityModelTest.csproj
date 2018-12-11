@@ -58,6 +58,7 @@
     <Compile Include="Database\Lessons.cs" />
     <Compile Include="Database\Logins.cs" />
     <Compile Include="Database\Management.cs" />
+    <Compile Include="Database\Payments.cs" />
     <Compile Include="Database\Students.cs" />
     <Compile Include="Database\Teachers.cs" />
     <Compile Include="Program.cs" />
